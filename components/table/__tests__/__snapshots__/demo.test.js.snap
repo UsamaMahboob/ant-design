@@ -4643,6 +4643,7 @@ exports[`renders ./components/table/demo/edit-row.md correctly 1`] = `
           class="ant-pagination-options"
         >
           <div
+            aria-label="Page Size"
             class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
           >
             <div
@@ -4655,7 +4656,9 @@ exports[`renders ./components/table/demo/edit-row.md correctly 1`] = `
                   aria-activedescendant="undefined_list_0"
                   aria-autocomplete="list"
                   aria-controls="undefined_list"
+                  aria-expanded="false"
                   aria-haspopup="listbox"
+                  aria-label="Page Size"
                   aria-owns="undefined_list"
                   autocomplete="off"
                   class="ant-select-selection-search-input"
@@ -7088,6 +7091,7 @@ exports[`renders ./components/table/demo/fixed-columns-header.md correctly 1`] =
           class="ant-pagination-options"
         >
           <div
+            aria-label="Page Size"
             class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
           >
             <div
@@ -7100,7 +7104,9 @@ exports[`renders ./components/table/demo/fixed-columns-header.md correctly 1`] =
                   aria-activedescendant="undefined_list_0"
                   aria-autocomplete="list"
                   aria-controls="undefined_list"
+                  aria-expanded="false"
                   aria-haspopup="listbox"
+                  aria-label="Page Size"
                   aria-owns="undefined_list"
                   autocomplete="off"
                   class="ant-select-selection-search-input"
@@ -8350,6 +8356,7 @@ exports[`renders ./components/table/demo/fixed-header.md correctly 1`] = `
           class="ant-pagination-options"
         >
           <div
+            aria-label="Page Size"
             class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
           >
             <div
@@ -8362,7 +8369,9 @@ exports[`renders ./components/table/demo/fixed-header.md correctly 1`] = `
                   aria-activedescendant="undefined_list_0"
                   aria-autocomplete="list"
                   aria-controls="undefined_list"
+                  aria-expanded="false"
                   aria-haspopup="listbox"
+                  aria-label="Page Size"
                   aria-owns="undefined_list"
                   autocomplete="off"
                   class="ant-select-selection-search-input"
@@ -9375,6 +9384,7 @@ exports[`renders ./components/table/demo/grouping-columns.md correctly 1`] = `
           class="ant-pagination-options"
         >
           <div
+            aria-label="Page Size"
             class="ant-select ant-select-sm ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
           >
             <div
@@ -9387,7 +9397,9 @@ exports[`renders ./components/table/demo/grouping-columns.md correctly 1`] = `
                   aria-activedescendant="undefined_list_0"
                   aria-autocomplete="list"
                   aria-controls="undefined_list"
+                  aria-expanded="false"
                   aria-haspopup="listbox"
+                  aria-label="Page Size"
                   aria-owns="undefined_list"
                   autocomplete="off"
                   class="ant-select-selection-search-input"
@@ -11041,6 +11053,7 @@ exports[`renders ./components/table/demo/narrow.md correctly 1`] = `
             class="ant-pagination-options"
           >
             <div
+              aria-label="Page Size"
               class="ant-select ant-select-sm ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
             >
               <div
@@ -11053,7 +11066,9 @@ exports[`renders ./components/table/demo/narrow.md correctly 1`] = `
                     aria-activedescendant="undefined_list_0"
                     aria-autocomplete="list"
                     aria-controls="undefined_list"
+                    aria-expanded="false"
                     aria-haspopup="listbox"
+                    aria-label="Page Size"
                     aria-owns="undefined_list"
                     autocomplete="off"
                     class="ant-select-selection-search-input"
@@ -16901,6 +16916,7 @@ exports[`renders ./components/table/demo/sticky.md correctly 1`] = `
           class="ant-pagination-options"
         >
           <div
+            aria-label="Page Size"
             class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
           >
             <div
@@ -16913,7 +16929,9 @@ exports[`renders ./components/table/demo/sticky.md correctly 1`] = `
                   aria-activedescendant="undefined_list_0"
                   aria-autocomplete="list"
                   aria-controls="undefined_list"
+                  aria-expanded="false"
                   aria-haspopup="listbox"
+                  aria-label="Page Size"
                   aria-owns="undefined_list"
                   autocomplete="off"
                   class="ant-select-selection-search-input"
